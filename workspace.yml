@@ -1,0 +1,12 @@
+opencollection: 1.0.0
+info:
+  name: "bruno-git-workspace"
+  type: workspace
+
+collections:
+  - name: "bruno-testbench"
+    path: "/Users/bijin/Projects/ge-fork/packages/bruno-tests/collection"
+
+specs:
+
+docs: ''
